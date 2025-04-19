@@ -1,0 +1,21 @@
+## Minimal Human Integration
+
+While TOM is designed for maximum autonomy, the system initially requires these configuration inputs:
+
+1. **Initial Setup & Account Access**
+   - Platform API credentials and authentication
+   - Basic brand guidelines for content boundaries
+   - Initial market focus selection
+   - Hardware deployment specifications
+
+2. **System Boundaries**
+   - Maximum risk tolerance parameters
+   - Content category exclusions
+   - Monetization method limitations
+
+3. **Monitoring Options**
+   - Preferred reporting cadence (daily/weekly/monthly)
+   - Alert thresholds for exceptional events
+   - Automated intervention triggers
+
+After initial configuration, TOM is designed to operate with zero human input, making all strategic and tactical decisions autonomously while delivering passive income.
